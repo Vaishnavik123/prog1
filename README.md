@@ -1,1 +1,3 @@
-# prog1
+@Autowired
+@Qualifier("specificBeanName")
+private MyComponent myComponent;
